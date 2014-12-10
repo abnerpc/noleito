@@ -1,0 +1,11 @@
+{
+    "city_from": "700",
+    "cities_to": "400;410",
+    "date": "141212",
+    "first_time": "18:00",
+    "last_time": "21:00",
+    "types": {
+        "CONVENC": "46;47",
+        "LEITODD.P1": "40;41;42;44"
+    }
+}
